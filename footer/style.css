@@ -1,0 +1,23 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+.footer {
+    background-color: #518fec;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    padding: 20px 150px;
+}
+
+li {
+    list-style: none;
+}
+
+.services {
+    position: absolute;
+    top: 20px;
+    right: 560px;
+}
+
+
